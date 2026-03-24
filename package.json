@@ -2,7 +2,7 @@
   "name": "notify-gateway",
   "version": "1.0.0",
   "description": "Resilient Notification Gateway Microservice with failover, idempotency, and rate limiting",
-  "author": "Senior Backend Engineer",
+  "author": "Jewel rana as Senior Backend Engineer ",
   "private": true,
   "license": "MIT",
   "scripts": {
